@@ -1,6 +1,6 @@
 # spring-boot-rest-api
 Simple rest API example in Spring Boot 2
 
-## Run it
-From the main method in Main.java,
-onve it's up, visit 'http://localhost:8080/'
+## Running
+Run it from the main method in Main.java (like in uni),
+once it's up, visit 'http://localhost:8080/'
