@@ -1,2 +1,2 @@
 # spring-boot-rest-api
-Rest API example in Spring Boot
+Simple rest API example in Spring Boot 2
